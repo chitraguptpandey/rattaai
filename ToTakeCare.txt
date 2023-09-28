@@ -1,0 +1,14 @@
+variable file -> make live
+app.json file -> change name to Dark Horse, change version, package name, bundle identifier
+App.js -> un-comment usePreventScreenCapture();
+
+
+
+
+@react-native-async-storage/async-storage @react-native-community/art @react-native-community/datetimepicker @react-native-community/masked-view @react-native-picker/picker @react-navigation/drawer 
+@react-navigation/native @react-navigation/stack @reduxjs/toolkit @types/react-native babel-preset-expo deprecated-react-native-prop-types expo expo-app-loading expo-av expo-camera 
+expo-clipboard expo-constants expo-document-picker expo-file-system expo-image-picker expo-notifications expo-permissions expo-screen-capture expo-splash-screen expo-status-bar 
+expo-updates jsx-runtime moment react react-dom react-native react-native-app-intro-slider react-native-autoheight-webview react-native-collapsible react-native-drawer-menu 
+react-native-gesture-handler react-native-picker-dropdown react-native-pie-chart react-native-popup-menu react-native-progress-circle react-native-reanimated react-native-safe-area-context 
+react-native-screens react-native-simple-dialogs react-native-svg react-native-tiny-toast react-native-web react-native-webview react-navigation react-navigation-drawer react-navigation-header-buttons 
+react-navigation-stack react-redux redux redux-thunk typescript 
